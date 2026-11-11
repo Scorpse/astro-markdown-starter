@@ -7,6 +7,18 @@ any static host.
 [Use this template](https://github.com/Scorpse/astro-markdown-starter/generate)
 · [Live example](https://scorpse.github.io/astro-markdown-starter/)
 
+## Publish from Windows
+
+[Fork the starter](https://github.com/Scorpse/astro-markdown-starter/fork), then
+open [Astro Markdown Writer](https://github.com/Scorpse/astro-markdown-writer)
+and connect it to your copy using a GitHub personal access token. Writer can
+configure Pages, queue the first deployment, and publish posts and images to
+your repository.
+
+[Windows installer](https://github.com/Scorpse/astro-markdown-writer/releases/latest)
+· [Setup guide and token permissions](https://github.com/Scorpse/astro-markdown-writer#start-a-blog)
+· [Live Writer demo post](https://scorpse.github.io/astro-markdown-writer-demo/posts/published-from-writer/)
+
 ## Start a blog
 
 Use **Use this template** to make a repository of your own, then clone it.
@@ -92,6 +104,3 @@ Add the upstream remote once. For later updates use the new release tag.
 If you used **Use this template** or downloaded a ZIP, review the release
 diff and apply the layout or dependency changes you want. Your copy has its
 own history.
-
-This starter uses Astro's standard Markdown collections. Scorpse Writer is a
-separate desktop app configured for the Scorpse blog's post format.
